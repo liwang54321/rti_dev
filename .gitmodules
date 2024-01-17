@@ -1,0 +1,24 @@
+[submodule "samples/connext-config"]
+	path = samples/connext-config
+	url = https://github.com/rticommunity/connext-config.git
+[submodule "samples/ros-data-types"]
+	path = samples/ros-data-types
+	url = https://github.com/rticommunity/ros-data-types.git
+[submodule "samples/rticonnextdds-cmake-utils"]
+	path = samples/rticonnextdds-cmake-utils
+	url = https://github.com/rticommunity/rticonnextdds-cmake-utils.git
+[submodule "samples/rticonnextdds-getting-started"]
+	path = samples/rticonnextdds-getting-started
+	url = https://github.com/rticommunity/rticonnextdds-getting-started.git
+[submodule "samples/rticonnextdds-usecases-automotive"]
+	path = samples/rticonnextdds-usecases-automotive
+	url = https://github.com/rticommunity/rticonnextdds-usecases-automotive.git
+[submodule "samples/rticonnextdds-usecases-security"]
+	path = samples/rticonnextdds-usecases-security
+	url = https://github.com/rticommunity/rticonnextdds-usecases-security.git
+[submodule "samples/rticonnextdds-examples"]
+	path = samples/rticonnextdds-examples
+	url = https://github.com/rticommunity/rticonnextdds-examples.git
+[submodule "samples/rtiperftest"]
+	path = samples/rtiperftest
+	url = https://github.com/rticommunity/rtiperftest.git
