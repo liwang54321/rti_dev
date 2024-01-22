@@ -22,3 +22,6 @@
 [submodule "samples/rtiperftest"]
 	path = samples/rtiperftest
 	url = https://github.com/rticommunity/rtiperftest.git
+[submodule "samples/rticonnextdds-logparser"]
+	path = samples/rticonnextdds-logparser
+	url = https://github.com/rticommunity/rticonnextdds-logparser
